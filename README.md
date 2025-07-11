@@ -1,6 +1,6 @@
 # 📊 Spreadsheet Dashboard
 
-A **pixel-perfect**, spreadsheet-style web app built with **React 18**, **TypeScript**, **Tailwind CSS**, and **Vite**. The interface mimics the look and feel of tools like **Google Sheets**, featuring interactive toolbars, tabs, action buttons, and a scrollable data grid — all implemented from a Figma design.
+A **pixel-perfect**, spreadsheet-style static web app built with **React 18**, **TypeScript**, **Tailwind CSS**, and **Vite**. The interface mimics the look and feel of tools like **Google Sheets**, featuring interactive toolbars, tabs, action buttons, and a scrollable data grid — all implemented from a Figma design.
 
 ---
 
